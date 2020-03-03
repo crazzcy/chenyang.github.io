@@ -1,0 +1,2 @@
+# crazzcy.github.io
+myblog
